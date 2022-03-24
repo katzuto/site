@@ -1,0 +1,229 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+
+.logo1{
+position: absolute;
+width: 1512px;
+height: 90px;
+left: 0px;
+top: 0px;
+background: #191B1F;
+}
+
+.hatCom{
+position: absolute;
+width: 74px;
+height: 15px;
+left: 816px;
+top: 39px;
+
+font-family: 'Archivo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+
+.hatDev{
+position: absolute;
+width: 73px;
+height: 15px;
+left: 941px;
+top: 39px;
+
+font-family: 'Archivo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+
+.hatFAQ{
+position: absolute;
+width: 72px;
+height: 15px;
+left: 1064px;
+top: 39px;
+
+font-family: 'Archivo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+
+.hatAPP{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 24px;
+
+position: absolute;
+width: 126px;
+height: 39px;
+left: 1206px;
+top: 27px;
+
+background: #751EC1;
+border-radius: 8px;
+}
+
+.logo1{
+position: absolute;
+width: 207px;
+height: 89px;
+left: 155px;
+top: -6px;
+background: url(.png);
+}
+
+.piconpage{
+    position: absolute;
+width: 468px;
+height: 551px;
+left: 180px;
+top: 234px;
+background: url(milad-fakurian-dQDDMWgvotg-unsplash.jpg);
+}
+
+.piconpagesp1{
+position: absolute;
+width: 498.58px;
+height: 587px;
+left: 164.71px;
+top: 216px;
+opacity: 0.7;
+}
+
+.piconpagesp2{
+position: absolute;
+width: 478px;
+height: 551px;
+left: 217px;
+top: 283px;
+background: linear-gradient(324.87deg, #B650E6 -26.01%, rgba(255, 255, 255, 0) 74.96%);
+opacity: 0.1;
+}
+
+.TxtMeta{
+position: absolute;
+width: 327px;
+height: 78px;
+left: 756px;
+top: 548px;
+
+font-family: 'Archivo';
+font-style: normal;
+font-weight: 500;
+font-size: 72px;
+line-height: 78px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+
+.TxtNev{
+position: absolute;
+width: 417px;
+height: 26px;
+left: 756px;
+top: 643px;
+
+font-family: 'Archivo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 26px;
+letter-spacing: 0.025em;
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.bg{
+position: absolute;
+left: -19px;
+right: -38px;
+top: -294px;
+bottom: 1939px;
+mix-blend-mode: color-burn;
+opacity: 0.2;
+filter: drop-shadow(0px 4px 4px rgba(22, 22, 22, 0.295));
+}
+
+.group2{
+position: absolute;
+width: 615.06px;
+height: 709.63px;
+left: 799.45px;
+top: 117.29px;
+opacity: 0.5;
+}
+
+.linktwit{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 756px;
+top: 712px;
+}
+
+.linktods{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 818px;
+top: 712px;
+}
+
+.linktoinst{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 880px;
+top: 712px;
+}
